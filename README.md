@@ -6,7 +6,7 @@ This project demonstrates the use of Logistic Regression for binary classificati
 
 ## 📂 Dataset
 
-- **Source**: [UCI ML Repository - Breast Cancer Wisconsin Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
+- **Source**: [UCI ML Repository - Breast Cancer Wisconsin Dataset]([https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data))
 - **Target Variable**: `diagnosis` (Malignant = 1, Benign = 0)
 - **Features Used**:
   - `texture_mean`
