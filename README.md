@@ -82,7 +82,7 @@ Build a binary classifier using logistic regression and evaluate its performance
 
 ```bash
 # Clone this repo
-git clone https://github.com/yourusername/breast-cancer-logistic-regression.git
+git clone https://github.com/Dvitee/breast-cancer-logistic-regression.git
 cd breast-cancer-logistic-regression
 
 # Run in Jupyter Notebook or Colab
